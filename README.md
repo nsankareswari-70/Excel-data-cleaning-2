@@ -54,4 +54,6 @@ Use find() function to get the location of the ;
 
   ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/4eba150d592caa330f3363e3c81516f8f382d498/ex157.png)
   
+## replace all the R & D with research and development
+
 

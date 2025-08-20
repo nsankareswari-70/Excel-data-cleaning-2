@@ -30,4 +30,6 @@ use ctrl + T to convert the data into table format
 Using Get Data feature in excel
 ## Find the location of the ; 
 Use find() function to get the location of the ;
+=FIND(";",[@Column2])
 
+## len(),left(),right() 

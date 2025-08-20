@@ -44,6 +44,8 @@ Use find() function to get the location of the ;
 
 ## Converting the text into number
 - Text is always left aligned
+  
 - Numbers are always right aligned in a cell
+  
  ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/b23b49bac2924800a0a4f0e129ba0cd9fcf6ec6b/ex156.png)
 

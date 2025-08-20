@@ -17,3 +17,5 @@ Now all the Blank rows are deleted.
 
 ## Remove unwanted spaces in the Department column
 Use the trim() to remove unwanted spaces
+
+## Use the Upper(), Lower() and proper() functions to format the text

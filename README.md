@@ -7,6 +7,7 @@
 
 
 ## Removing the Blank rows
+![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/eff6066bcd499b9faebcc3108f7cf1725efa14af/ex150.png)
 Use the find and select button -> select Go To special - click Blank
 All the blank rows are selected. Now go the Delete button on the menu. Select Delete sheet rows
 Now all the Blank rows are deleted.

@@ -12,4 +12,5 @@ Use the find and select button -> select Go To special - click Blank
 All the blank rows are selected. Now go the Delete button on the menu. Select Delete sheet rows
 Now all the Blank rows are deleted.
 
+## changing the value column to currency type
 

@@ -20,3 +20,10 @@ Use the trim() to remove unwanted spaces
 
 ## Use the Upper(), Lower() and proper() functions to format the text
 ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/f6ff4d496b758270528df9950b93ab08b3d8ddce/ex153.png)
+
+## Converting the data to table
+use ctrl + T to convert the data into table format
+
+## create a pivot table
+
+## import the csv file to excel

@@ -13,4 +13,5 @@ All the blank rows are selected. Now go the Delete button on the menu. Select De
 Now all the Blank rows are deleted.
 
 ## changing the value column to currency type
+![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/d8dae3822d1e268bfc6795568540c71c9586b17e/ex152.png)
 

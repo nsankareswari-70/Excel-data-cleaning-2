@@ -15,3 +15,5 @@ Now all the Blank rows are deleted.
 ## changing the value column to currency type
 ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/d8dae3822d1e268bfc6795568540c71c9586b17e/ex152.png)
 
+## Remove unwanted spaces in the Department column
+Use the trim() to remove unwanted spaces

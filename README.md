@@ -61,5 +61,5 @@ Use find() function to get the location of the ;
   ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/956e358d6a0fe5cebc99dc99de5060e4ee8c6cc5/ex159.png)
 
 
-    ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/830364e4af8096dad6e3cdf245be935195156553/ex160.png)
+  ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/830364e4af8096dad6e3cdf245be935195156553/ex160.png)
 

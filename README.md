@@ -9,3 +9,5 @@ Now all the Blank rows are deleted.
 ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/14ca904d2f385492a02332e8c1fbe12ca57c82c0/ex151.png)
 
 
+
+

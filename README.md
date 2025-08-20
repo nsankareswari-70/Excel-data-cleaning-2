@@ -49,3 +49,8 @@ Use find() function to get the location of the ;
   
  ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/b23b49bac2924800a0a4f0e129ba0cd9fcf6ec6b/ex156.png)
 
+ ## Substitute()
+ =SUBSTITUTE(E29,"Mktg","Marketing")
+
+ 
+

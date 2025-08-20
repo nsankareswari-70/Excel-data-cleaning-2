@@ -25,5 +25,9 @@ Use the trim() to remove unwanted spaces
 use ctrl + T to convert the data into table format
 
 ## create a pivot table
-
+![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/950af3c58de84cfd806ae62c9e1492497aa9e490/ex154.png)
 ## import the csv file to excel
+Using Get Data feature in excel
+## Find the location of the ; 
+Use find() function to get the location of the ;
+

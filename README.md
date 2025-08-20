@@ -36,9 +36,9 @@ Use find() function to get the location of the ;
 
 =LEN([@Trim])
 
-=[@[left()]]
+=LEFT([@Trim],[@[; location]]-1)
 
-=[@[Right()]]
+=RIGHT([@Trim],[@length]-[@[; location]])
 
 ![img alt](https://github.com/nsankareswari-70/Excel-data-cleaning-2/blob/dd93df21036b8e45b448ea26687f35bcde115654/ex155.png)
 
